@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7385c811f898e442a1bca1242478412, type: 3}
+  m_Name: 09_01
+  m_EditorClassIdentifier: 
+  skillName: 09_01
+  sp: {fileID: 7866240798336800546, guid: 818714e2432487d4483af03e37652e1b, type: 3}
+  skillKey: 09_01
+  Des: "\u4F60\u7684\u5B50\u5F39\u670935%\u7684\u673A\u4F1A\u9020\u6210\u51B0\u51BB\u6548\u679C\uFF0C\u6301\u7EED2\u79D2"
+  nextSkill:
+  - {fileID: 11400000, guid: bd0bb468a3cd1504fb5b51f3cb94d4d4, type: 2}

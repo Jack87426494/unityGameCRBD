@@ -1,0 +1,15 @@
+D:\unity games\Tcp_Server\bin\Debug\net6.0\Tcp_Server.exe
+D:\unity games\Tcp_Server\bin\Debug\net6.0\Tcp_Server.deps.json
+D:\unity games\Tcp_Server\bin\Debug\net6.0\Tcp_Server.runtimeconfig.json
+D:\unity games\Tcp_Server\bin\Debug\net6.0\Tcp_Server.dll
+D:\unity games\Tcp_Server\bin\Debug\net6.0\Tcp_Server.pdb
+D:\unity games\Tcp_Server\obj\Debug\net6.0\Tcp_Server.csproj.AssemblyReference.cache
+D:\unity games\Tcp_Server\obj\Debug\net6.0\Tcp_Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\unity games\Tcp_Server\obj\Debug\net6.0\Tcp_Server.AssemblyInfoInputs.cache
+D:\unity games\Tcp_Server\obj\Debug\net6.0\Tcp_Server.AssemblyInfo.cs
+D:\unity games\Tcp_Server\obj\Debug\net6.0\Tcp_Server.csproj.CoreCompileInputs.cache
+D:\unity games\Tcp_Server\obj\Debug\net6.0\Tcp_Server.dll
+D:\unity games\Tcp_Server\obj\Debug\net6.0\refint\Tcp_Server.dll
+D:\unity games\Tcp_Server\obj\Debug\net6.0\Tcp_Server.pdb
+D:\unity games\Tcp_Server\obj\Debug\net6.0\Tcp_Server.genruntimeconfig.cache
+D:\unity games\Tcp_Server\obj\Debug\net6.0\ref\Tcp_Server.dll
